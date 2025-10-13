@@ -55,5 +55,5 @@
 <h3 align="left">🔥 Mis estadísticas</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hackbatman&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
